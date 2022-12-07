@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Craig, a self taught aspiring developer studying HTML, CSS, Javascript, Java, Python.
+
+I'm working my way through several LinkedIn Courses and Udemy Courses to develop my skillset.
+
+I thoroughly enjoy a challenge and collaborating with fellow devs.
